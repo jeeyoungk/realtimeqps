@@ -1,0 +1,14 @@
+{
+  "name": "realtimeqps",
+  "version": "0.0.0",
+  "description": "Real time qps calculation server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeeyoung Kim",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
